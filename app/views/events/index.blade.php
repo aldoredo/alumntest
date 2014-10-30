@@ -11,6 +11,8 @@
 
     @endforeach
 </ul>
+
+Yoyo add event
 <p>{{link_to_route('new_event', 'New Event')}}</p>
 
 @stop
